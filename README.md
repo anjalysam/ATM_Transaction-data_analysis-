@@ -7,9 +7,12 @@ learning models to troubleshoot the above use case. We will work on the demand f
 ATM (a group of ATMs can also be worked that is treated as a single ATM) to develop a
 model for the given data set.
 We have to remember that, cash withdrawals from an ATM are not only time dependent.
-There could be seasonality, e.g. 1) people will have a tendency to withdraw money on Friday
-for the weekend or 2) end of the month when people get their salaries or 3) between 7–10th
-day of each month some people get their pension. Therefore, developing cash demand
+There could be seasonality, e.g.
+1) people will have a tendency to withdraw money on Friday
+for the weekend or
+2) end of the month when people get their salaries or 
+3) between 7–10th day of each month some people get their pension.
+Therefore, developing cash demand
 forecasting model for ATM network is a challenging task. Also, the chronological cash
 demand for every ATM fluctuates with time and often superimposed with non-stationary
 behaviour of users.
